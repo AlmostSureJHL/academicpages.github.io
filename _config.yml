@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Jinhong Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Hangzhou City, Zhejiang Province"
   employer         : "Zhejiang Gongshang University"
   uri              : # URL
