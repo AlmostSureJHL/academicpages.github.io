@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth year Ph.D. student in School of Statistics at East China Normal University. I got my M.S. degree in Statistics from School of Science, CUEB in 2020. 
-
+I am currently a Lecturer at the School of Statistics and Mathmatics at the Zhejiang Gongshang University. I was awarded a Ph.D. in Statistics from East China Normal University in June 2025, under the supervision of Professor Riquan Zhang. My research interests include high-dimensional hypothesis testing, image data analysis, and survival analysis. I have published in several prominent journals, such as Bernoulli,  Journal of Computational and Graphical Statistics, Journal of Nonparametric Statistics and Scientia Sinica Mathematica. 
