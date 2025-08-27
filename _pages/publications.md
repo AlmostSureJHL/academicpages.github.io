@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2025). [SID: A Novel Class of Nonparametric Tests of Independence for Censored Outcomes](https://arxiv.org/abs/2412.06311). *Bernoulli*. [[arXiv Preprint](https://arxiv.org/pdf/2412.06311),[Code](https://github.com/AlmostSureJHL/SID)]
+- **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2025). [SID: A Novel Class of Nonparametric Tests of Independence for Censored Outcomes](https://arxiv.org/abs/2412.06311). *Bernoulli*. [[arXiv Preprint](https://arxiv.org/pdf/2412.06311), [Code](https://github.com/AlmostSureJHL/SID)]
 
 - Liu, J., **Li, J.**,  Zhang, R. (2022). [K-CDFs: A Nonparametric Clustering Algorithm via Cumulative Distribution Function](https://doi.org/10.1080/10618600.2022.2091575). *Journal of Computational and Graphical Statistics*, 32(1), 304–318. [[PDF](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2091575)]
 
