@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "SID: A Novel Class of Nonparametric Tests of Independence for Censored Outcomes"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
