@@ -13,6 +13,6 @@ author_profile: true
 
 - Liu, J., **Li, J.**,  Zhang, R. (2022). [K-CDFs: A Nonparametric Clustering Algorithm via Cumulative Distribution Function](https://doi.org/10.1080/10618600.2022.2091575). *Journal of Computational and Graphical Statistics*, 32(1), 304–318. [[PDF](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2091575)]
 
-- **Li, J.**, Liu, J.,  Zhang, R\*. (2022). [Estimating restricted mean treatment effects with additive-multiplicative hazards models](https://doi.org/10.1080/10618600.2022.2091575). *Journal of Nonparametric Statistics*, 34(4), 1015–1035. [[PDF](https://www.tandfonline.com/doi/abs/10.1080/10485252.2022.2108810), [Code](https://github.com/AlmostSureJHL/RMFT)]
+- **Li, J.**, Liu, J.,  Zhang, R\*. (2022). [Estimating restricted mean treatment effects with additive-multiplicative hazards models](https://doi.org/10.1080/10485252.2022.2108810). *Journal of Nonparametric Statistics*, 34(4), 1015–1035. [[PDF](https://www.tandfonline.com/doi/abs/10.1080/10485252.2022.2108810), [Code](https://github.com/AlmostSureJHL/RMFT)]
 
 - Pei, Y., **Li, J.** (2020). [Estimating the difference of restricted mean life under dependent censor](https://doi.org/10.1360/N012019-00081). *SCIENTIA SINICA Mathematica*, 50(3), 405–422. [[PDF](https://www.sciengine.com/SSM/doi/10.1360/N012019-00081)]
