@@ -9,17 +9,17 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- **Li, J.**, Liu, J.\*, You, J., Zhang, R. Two-Sample Robust Nonparametric Tests for Matrix-Valued Data: a Double Projection-Averaging Method.
+- **Li, J.**, Liu, J.\*, You, J., Zhang, R. Two-Sample Robust Nonparametric Tests for Matrix-Valued Data: a Double Projection-Averaging Method. **Submitted**
   
-- **Li, J.**, Liu, J.\*, Zhang, R. Conditional Independence Testing for Right-censored Data via Counting Process and Kernel Embedding Approach.
+- **Li, J.**, Liu, J.\*, Zhang, R. Conditional Independence Testing for Right-censored Data via Counting Process and Kernel Embedding Approach. **Submitted**
   
-- **Li, J.**, Ma, S. Causal Inference of Treatment Effects using Neural Networks with A Diverging Number of Confounders.
+- **Li, J.**, Ma, S. Causal Inference of Treatment Effects using Neural Networks with A Diverging Number of Confounders. **Submitted**
   
-- **Li, J.**, Liu, J.\*, Ma, S., Zhang, R. Testing Independence in High-Dimensional Survival Data Using Conditional Moment Restrictions Approach.
+- **Li, J.**, Liu, J.\*, Ma, S., Zhang, R. Testing Independence in High-Dimensional Survival Data Using Conditional Moment Restrictions Approach. **Submitted**
 
-- Liu, J., Zhang, Y., **Li, J.**\*. Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence.
+- Liu, J., Zhang, Y., **Li, J.**\*. Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence. **Submitted**
 
-- Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data.
+- Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data. **Submitted**
 
 - **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2025). [SID: A Novel Class of Nonparametric Tests of Independence for Censored Outcomes](https://arxiv.org/abs/2412.06311). *Bernoulli*. [[Accepted](https://arxiv.org/pdf/2412.06311), [Code](https://github.com/AlmostSureJHL/SID)]
 
