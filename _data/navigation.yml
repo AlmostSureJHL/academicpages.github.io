@@ -12,7 +12,8 @@ main:
     url: /publications/
   - title: "Cooking"
     url: /Cooking/
-
+  - title: "Travel"
+    url: /Travel/
   #- title: "Talks"
   #  url: /talks/    
 
