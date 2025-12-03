@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- **Li, J.**, Liu, J.\*, You, J., Zhang, R. Two-Sample Robust Nonparametric Tests for Matrix-Valued Data: a Double Projection-Averaging Method. 
+<!-- **Li, J.**, Liu, J.\*, You, J., Zhang, R. Two-Sample Robust Nonparametric Tests for Matrix-Valued Data: a Double Projection-Averaging Method. -->
   
 - **Li, J.**, Liu, J.\*, Zhang, R. Conditional Independence Testing for Right-censored Data via Counting Process and Kernel Embedding Approach.
   
