@@ -19,3 +19,8 @@ author_profile: true
 **成龙手印-洛杉矶好莱坞星光大道** 
 
 
+<img src="https://almostsurejhl.github.io/academicpages.github.io/images/Travel/泰州溱湖.jpg" 
+     alt="泰州溱湖" 
+     style="width: 50%; height: auto;">
+     
+**泰州溱湖** 
