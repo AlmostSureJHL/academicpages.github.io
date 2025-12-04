@@ -18,6 +18,11 @@ author_profile: true
      
 **成龙手印-洛杉矶好莱坞星光大道** 
 
+<img src="https://almostsurejhl.github.io/academicpages.github.io/images/Travel/湖南岳麓山.jpg" 
+     alt="湖南岳麓山" 
+     style="width: 50%; height: auto;">
+     
+**湖南岳麓山** 
 
 <img src="https://almostsurejhl.github.io/academicpages.github.io/images/Travel/泰州溱湖.jpg" 
      alt="泰州溱湖" 
