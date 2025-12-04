@@ -16,7 +16,7 @@ author_profile: true
      alt="成龙手印_洛杉矶好莱坞大道" 
      style="width: 50%; height: auto;">
      
-**成龙手印-洛杉矶好莱坞星光大道(2024.1)** 
+**洛杉矶好莱坞星光大道(2024.1)** 
 
 <img src="https://almostsurejhl.github.io/academicpages.github.io/images/Travel/湖南岳麓山.jpg" 
      alt="湖南岳麓山" 
