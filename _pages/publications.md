@@ -21,7 +21,7 @@ author_profile: true
 
 - Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data. 
 
-- **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2025). [SID: A Novel Class of Nonparametric Tests of Independence for Censored Outcomes](https://arxiv.org/abs/2412.06311). *Bernoulli*. [(https://arxiv.org/pdf/2412.06311), [Code](https://github.com/AlmostSureJHL/SID)]
+- **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2026). [SID: A novel class of nonparametric tests of independence for censored outcomes](https://doi.org/10.3150/25-BEJ1927). *Bernoulli*, 32(3), 1687-1712. [[PDF](https://doi.org/10.3150/25-BEJ1927), [Code](https://github.com/AlmostSureJHL/SID)]
 
 - Liu, J., **Li, J.**,  Zhang, R. (2022). [K-CDFs: A Nonparametric Clustering Algorithm via Cumulative Distribution Function](https://doi.org/10.1080/10618600.2022.2091575). *Journal of Computational and Graphical Statistics*, 32(1), 304–318. [[PDF](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2091575)]
 
