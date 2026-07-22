@@ -17,9 +17,9 @@ author_profile: true
   
 - **Li, J.**, Liu, J.\*, Ma, S., Zhang, R. Testing Independence in High-Dimensional Survival Data Using Conditional Moment Restrictions Approach. 
 
-- Liu, J., Zhang, Y., **Li, J.**\*. Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence. 
-
-- Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data. 
+- Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data.
+- 
+- Liu, J., Zhang, Y., **Li, J.**\*. Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence. *Statistics and Computing*, Forthcoming. 
 
 - **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2026). [SID: A novel class of nonparametric tests of independence for censored outcomes](https://doi.org/10.3150/25-BEJ1927). *Bernoulli*, 32(3), 1687-1712. [[PDF](https://doi.org/10.3150/25-BEJ1927), [Code](https://github.com/AlmostSureJHL/SID)]
 
