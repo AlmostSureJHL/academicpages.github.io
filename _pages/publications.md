@@ -19,7 +19,7 @@ author_profile: true
 
 - Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data.
  
-- Liu, J., Zhang, Y., **Li, J.**\*. Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence. *Statistics and Computing*, Forthcoming. 
+- Liu, J., Zhang, Y., **Li, J.**\*. 2026. [Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence](https://link.springer.com/article/10.1007/s11222-026-10943-4). *Statistics and Computing*, 36, 187. [[PDF](https://link.springer.com/article/10.1007/s11222-026-10943-4)]
 
 - **Li, J.**, Liu, J.\*, You, J., Zhang, R. (2026). [SID: A novel class of nonparametric tests of independence for censored outcomes](https://doi.org/10.3150/25-BEJ1927). *Bernoulli*, 32(3), 1687-1712. [[PDF](https://doi.org/10.3150/25-BEJ1927), [Code](https://github.com/AlmostSureJHL/SID)]
 
