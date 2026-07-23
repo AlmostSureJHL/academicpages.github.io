@@ -11,13 +11,14 @@ author_profile: true
 
 <!-- **Li, J.**, Liu, J.\*, You, J., Zhang, R. Two-Sample Robust Nonparametric Tests for Matrix-Valued Data: a Double Projection-Averaging Method. -->
   
-- **Li, J.**, Liu, J.\*, Zhang, R. Conditional Independence Testing for Right-censored Data via Counting Process and Kernel Embedding Approach.
   
 - **Li, J.**, Ma, S. Causal Inference of Treatment Effects using Neural Networks with A Diverging Number of Confounders. Working paper
   
 - **Li, J.**, Liu, J.\*, Ma, S., Zhang, R. Testing Independence in High-Dimensional Survival Data Using Conditional Moment Restrictions Approach. 
 
 - Zhu, H., Cai, S., Hu, Z., **Li, J.**\* . Spatially Varying Coefficient Additive Model with An Application to Brain Imaging Data.
+
+- **Li, J.**, Liu, J.\*, Zhang, R. Conditional Independence Testing for Right-censored Data via Counting Process and Kernel Embedding Approach. *Chinese Journal of Applied Probability and Statistics*， Forthcoming.
  
 - Liu, J., Zhang, Y., **Li, J.**\*. 2026. [Sufficient Dimension Reduction via Inverse Conditional Mean or Variance Independence](https://link.springer.com/article/10.1007/s11222-026-10943-4). *Statistics and Computing*, 36, 187. [[PDF](https://link.springer.com/article/10.1007/s11222-026-10943-4)]
 
